@@ -1,5 +1,3 @@
 # java-college
-All Java applications I wrote in college for assignments.
+All Java programs I wrote in college for the final assignment of Bachelor's of Computer Science final assignment.
 The ```final-assignment``` folder contains all the programs for the final assignment of Semester-5.
-
-Other codes explained:
